@@ -1,0 +1,4 @@
+- https://www.alexsears.com/2019/10/fun-with-concurrency-in-golang/
+- https://medium.com/honestbee-tw-engineer/gracefully-shutdown-in-go-http-server-5f5e6b83da5a
+- https://medium.com/@pinkudebnath/graceful-shutdown-of-golang-servers-using-context-and-os-signals-cc1fa2c55e97
+- https://marcofranssen.nl/go-webserver-with-graceful-shutdown/
